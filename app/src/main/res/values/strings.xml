@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TrueCitzenQuiz</string>
+    <string name="question_declaration">Question...</string>
+    <string name="question_animal_kingdom">Qual é o reino que abrange a maior diversidade de espécies na Terra?</string>
+    <string name="question_planet_earth">A Terra é o terceiro planeta a partir do Sol.</string>
+    <string name="question_human_body">O corpo humano possui 206 ossos.</string>
+    <string name="question_history">Napoleão Bonaparte foi o imperador da França no século XIX.</string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <string name="correct_answer">That\'s a correct answer</string>
+    <string name="wrong_answer">That\'s a wrong answer</string>
+</resources>
